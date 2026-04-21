@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "goodpage": {
+      "command": "python",
+      "args": ["/absolute/path/to/goodpage/mcp-server/mcp_server.py"],
+      "env": {
+        "GOODPAGE_TEST_MODE": "false"
+      }
+    }
+  }
+}
